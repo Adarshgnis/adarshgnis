@@ -215,9 +215,9 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <div align=center>
   <span><a href="https://aayushbharti.in"><img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adarshgnis&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" /></a></span>
-  <span><a href="https://aayushbharti.in"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=adarshgnis&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
-  <span><a href="https://aayushbharti.in"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=adarshgnis&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
-  <span><a href="https://aayushbharti.in"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=adarshgnis&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
+  <span><a href="https://aayushbharti.in"><img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=adarsh-5ingh&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" /></a></span>
+  <span><a href="https://aayushbharti.in"><img width=410  src="https://github-readme-stats-salesp07.vercel.app/api?username=adarsh-5ingh&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" /></a></span>
+  <span><a href="https://aayushbharti.in"><img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=adarsh-5ingh&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/></a></span>
 </div>
 
 <!-- <div align=center>
